@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atlas Sportu.Plugins", "Atlas Sportu.Plugins.csproj", "{4AA3C855-2E03-4F1F-8FC4-7701C813B1C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atlas Sportu", "Atlas Sportu.csproj", "{2C07D22D-CA9E-1344-3294-DEF17532641F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atlas Sportu.Editor.Plugins", "Atlas Sportu.Editor.Plugins.csproj", "{B733E183-0DAB-36C5-9530-7FA931A6444A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atlas Sportu.Editor", "Atlas Sportu.Editor.csproj", "{C70DF9BE-4F02-540E-D7F6-2A17119B9B04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atlas Sportu.Editor", "Atlas Sportu.Editor.csproj", "{C70DF9BE-4F02-540E-D7F6-2A17119B9B04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atlas Sportu.Editor", "Atlas Sportu.Editor.csproj", "{C70DF9BE-4F02-540E-D7F6-2A17119B9B04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AA3C855-2E03-4F1F-8FC4-7701C813B1C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA3C855-2E03-4F1F-8FC4-7701C813B1C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA3C855-2E03-4F1F-8FC4-7701C813B1C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA3C855-2E03-4F1F-8FC4-7701C813B1C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C07D22D-CA9E-1344-3294-DEF17532641F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C07D22D-CA9E-1344-3294-DEF17532641F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C07D22D-CA9E-1344-3294-DEF17532641F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C07D22D-CA9E-1344-3294-DEF17532641F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B733E183-0DAB-36C5-9530-7FA931A6444A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B733E183-0DAB-36C5-9530-7FA931A6444A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B733E183-0DAB-36C5-9530-7FA931A6444A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B733E183-0DAB-36C5-9530-7FA931A6444A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C70DF9BE-4F02-540E-D7F6-2A17119B9B04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C70DF9BE-4F02-540E-D7F6-2A17119B9B04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C70DF9BE-4F02-540E-D7F6-2A17119B9B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C70DF9BE-4F02-540E-D7F6-2A17119B9B04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C70DF9BE-4F02-540E-D7F6-2A17119B9B04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C70DF9BE-4F02-540E-D7F6-2A17119B9B04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C70DF9BE-4F02-540E-D7F6-2A17119B9B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C70DF9BE-4F02-540E-D7F6-2A17119B9B04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C70DF9BE-4F02-540E-D7F6-2A17119B9B04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C70DF9BE-4F02-540E-D7F6-2A17119B9B04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C70DF9BE-4F02-540E-D7F6-2A17119B9B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C70DF9BE-4F02-540E-D7F6-2A17119B9B04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

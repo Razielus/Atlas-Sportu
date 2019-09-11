@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes_Final/MenuTheory.unity
+  isLoaded: 1
+  isActive: 1
