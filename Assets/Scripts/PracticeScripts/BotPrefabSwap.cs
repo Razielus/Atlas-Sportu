@@ -20,6 +20,11 @@ public class BotPrefabSwap : MonoBehaviour {
      
     }
 
+    private void OnDisable()
+    {
+        Cursor.visible = true;
+    }
+
     void Run()
     {
         PrePrefab.SetActive(false);

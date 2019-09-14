@@ -2023,7 +2023,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: How many repeats you should do during training for strength?
+  m_Text: How long should warm up at least last?
 --- !u!222 &61879312
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3413,7 +3413,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.25, y: 0.2}
   m_AnchorMax: {x: 0.75, y: 0.8}
-  m_AnchoredPosition: {x: -0.00012207031, y: -0.000091552734}
+  m_AnchoredPosition: {x: -0.00012207031, y: -0.000061035156}
   m_SizeDelta: {x: 642.5, y: 379.19995}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &90960514
@@ -4073,7 +4073,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 608174357}
+      - m_Target: {fileID: 280144677}
         m_MethodName: SetActive
         m_Mode: 6
         m_Arguments:
@@ -4442,7 +4442,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: -250, y: -300.00006}
+  m_AnchoredPosition: {x: -250, y: -100}
   m_SizeDelta: {x: 900, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &113972953
@@ -9004,7 +9004,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: BACK
+  m_Text: IT DEPENDS ON TRAINIGN
 --- !u!222 &258021035
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9183,7 +9183,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: 7cb2912222469634ba17a77055919ea8, type: 3}
-    m_FontSize: 25
+    m_FontSize: 50
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 2
@@ -9194,23 +9194,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "1.Lie back on a flat bench. Using a medium width grip (a grip that creates
-    a 90-degree angle in the middle of the movement between the forearms and the upper
-    arms), lift the bar from the rack and hold it straight over you with your arms
-    locked. This will be your starting position.\r\n2.From the starting position,
-    breathe in and begin coming down slowly until the bar touches your middle chest.\r\n3.After
-    a brief pause, push the bar back to the starting position as you breathe out.
-    Focus on pushing the bar using your chest muscles. Lock your arms and squeeze
-    your chest in the contracted position at the top of the motion, hold for a second
-    and then start coming down slowly again. \n\nTip: Ideally, lowering the weight
-    should take about twice as long as raising it.\r\n\nRepeat the movement for the
-    prescribed amount of repetitions.\r\nWhen you are done, place the bar back in
-    the rack.\r\n\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCaution:\r\nIf
-    you are new at this exercise, it is advised that you use a spotter. If no spotter
-    is available, then be conservative with the amount of weight used.\r\nAlso, beware
-    of letting the bar drift too far forward. You want the bar to touch your middle
-    chest and nowhere else.\r\nDon't bounce the weight off your chest. You should
-    be in full control of the barbell at all times."
+  m_Text: What is most important thing you should have before doing serious workout?
 --- !u!222 &263492049
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9705,7 +9689,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: 7cb2912222469634ba17a77055919ea8, type: 3}
-    m_FontSize: 25
+    m_FontSize: 50
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 2
@@ -9716,23 +9700,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "1.Lie back on a flat bench. Using a medium width grip (a grip that creates
-    a 90-degree angle in the middle of the movement between the forearms and the upper
-    arms), lift the bar from the rack and hold it straight over you with your arms
-    locked. This will be your starting position.\r\n2.From the starting position,
-    breathe in and begin coming down slowly until the bar touches your middle chest.\r\n3.After
-    a brief pause, push the bar back to the starting position as you breathe out.
-    Focus on pushing the bar using your chest muscles. Lock your arms and squeeze
-    your chest in the contracted position at the top of the motion, hold for a second
-    and then start coming down slowly again. \n\nTip: Ideally, lowering the weight
-    should take about twice as long as raising it.\r\n\nRepeat the movement for the
-    prescribed amount of repetitions.\r\nWhen you are done, place the bar back in
-    the rack.\r\n\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCaution:\r\nIf
-    you are new at this exercise, it is advised that you use a spotter. If no spotter
-    is available, then be conservative with the amount of weight used.\r\nAlso, beware
-    of letting the bar drift too far forward. You want the bar to touch your middle
-    chest and nowhere else.\r\nDon't bounce the weight off your chest. You should
-    be in full control of the barbell at all times."
+  m_Text: When you should do stretching?
 --- !u!222 &277239365
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10748,201 +10716,6 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 289013902}
---- !u!1 &289749321
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 5
-  m_Component:
-  - component: {fileID: 289749322}
-  - component: {fileID: 289749328}
-  - component: {fileID: 289749327}
-  - component: {fileID: 289749326}
-  - component: {fileID: 289749325}
-  - component: {fileID: 289749324}
-  - component: {fileID: 289749323}
-  m_Layer: 5
-  m_Name: Answer3
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &289749322
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 289749321}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 0.9999836}
-  m_Children:
-  - {fileID: 844504592}
-  m_Father: {fileID: 892532398}
-  m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 350.0002, y: -300.00006}
-  m_SizeDelta: {x: 900, y: 300}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &289749323
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 289749321}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -1862395651, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Delegates:
-  - eventID: 0
-    callback:
-      m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 931741120}
-          m_MethodName: Play
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-      m_TypeName: UnityEngine.EventSystems.EventTrigger+TriggerEvent, UnityEngine.UI,
-        Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  - eventID: 4
-    callback:
-      m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 2076073660}
-          m_MethodName: Play
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-      m_TypeName: UnityEngine.EventSystems.EventTrigger+TriggerEvent, UnityEngine.UI,
-        Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  delegates: []
---- !u!114 &289749324
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 289749321}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d1a8414b915d9bd448a9bb91ede62445, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  alphalevel: 0.3
---- !u!114 &289749325
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 289749321}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 25adab4619094664f9cc8b833375cba2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &289749326
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 289749321}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Navigation:
-    m_Mode: 3
-    m_SelectOnUp: {fileID: 0}
-    m_SelectOnDown: {fileID: 0}
-    m_SelectOnLeft: {fileID: 0}
-    m_SelectOnRight: {fileID: 0}
-  m_Transition: 3
-  m_Colors:
-    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.7122642, g: 1, b: 1, a: 1}
-    m_PressedColor: {r: 1, g: 0.018631034, b: 0, a: 1}
-    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
-    m_ColorMultiplier: 1
-    m_FadeDuration: 0.1
-  m_SpriteState:
-    m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 0}
-    m_DisabledSprite: {fileID: 0}
-  m_AnimationTriggers:
-    m_NormalTrigger: Normal
-    m_HighlightedTrigger: Highlighted
-    m_PressedTrigger: Pressed
-    m_DisabledTrigger: Disabled
-  m_Interactable: 1
-  m_TargetGraphic: {fileID: 289749327}
-  m_OnClick:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 289749325}
-        m_MethodName: WrongTrig
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: Start
-          m_BoolArgument: 0
-        m_CallState: 1
-    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
-      Culture=neutral, PublicKeyToken=null
---- !u!114 &289749327
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 289749321}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 0.9987794, g: 1, b: 0.8349056, a: 1}
-  m_RaycastTarget: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 9a32a6cc2cb803443983d45d4a513506, type: 3}
-  m_Type: 1
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
---- !u!222 &289749328
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 289749321}
 --- !u!1 &291750093
 GameObject:
   m_ObjectHideFlags: 0
@@ -11084,7 +10857,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: BACK
+  m_Text: TECHNIQUE
 --- !u!222 &294462887
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11124,11 +10897,11 @@ RectTransform:
   m_Children:
   - {fileID: 1853016384}
   m_Father: {fileID: 1139285623}
-  m_RootOrder: 0
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: -250, y: -100}
+  m_AnchoredPosition: {x: 350, y: -300}
   m_SizeDelta: {x: 900, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &301616020
@@ -11692,7 +11465,6 @@ RectTransform:
   m_Children:
   - {fileID: 786480751}
   - {fileID: 835019368}
-  - {fileID: 1451655625}
   - {fileID: 1750515958}
   m_Father: {fileID: 1674559519}
   m_RootOrder: 3
@@ -11728,7 +11500,7 @@ MonoBehaviour:
   RightA: {fileID: 302855075}
   RightAnswer: {fileID: 786480750}
   Wronganswer1: {fileID: 835019367}
-  Wronganswer2: {fileID: 1451655624}
+  Wronganswer2: {fileID: 0}
   Wronganswer3: {fileID: 1750515957}
   MiniRight: {fileID: 419551208}
 --- !u!1 &321869957
@@ -13150,8 +12922,8 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 1140814700}
   - {fileID: 636347251}
+  - {fileID: 1140814700}
   - {fileID: 1333123760}
   - {fileID: 1628759857}
   m_Father: {fileID: 1801644370}
@@ -14103,7 +13875,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1392629074}
+      - m_Target: {fileID: 14627998}
         m_MethodName: SetTrigger
         m_Mode: 5
         m_Arguments:
@@ -14193,11 +13965,11 @@ RectTransform:
   m_Children:
   - {fileID: 1961288989}
   m_Father: {fileID: 1139285623}
-  m_RootOrder: 3
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 350.0002, y: -300.00006}
+  m_AnchoredPosition: {x: -250, y: -100}
   m_SizeDelta: {x: 900, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &397773465
@@ -14785,7 +14557,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1392629074}
+      - m_Target: {fileID: 14627998}
         m_MethodName: SetTrigger
         m_Mode: 5
         m_Arguments:
@@ -15989,7 +15761,7 @@ RectTransform:
   m_Children:
   - {fileID: 570324941}
   m_Father: {fileID: 1139285623}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
@@ -16582,7 +16354,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1392629074}
+      - m_Target: {fileID: 14627998}
         m_MethodName: SetTrigger
         m_Mode: 5
         m_Arguments:
@@ -16706,7 +16478,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: BACK
+  m_Text: BEFORE THE TRAINIGN
 --- !u!222 &446951072
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -17859,7 +17631,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: BACK
+  m_Text: AFTER THE TRAINING
 --- !u!222 &470767991
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -20785,7 +20557,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: BACK
+  m_Text: 3
 --- !u!222 &570324943
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -21183,7 +20955,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: BACK
+  m_Text: 1
 --- !u!222 &582907188
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -21473,7 +21245,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: BACK
+  m_Text: BEFORE AND AFTER TRAINING
 --- !u!222 &589056020
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -22268,11 +22040,11 @@ RectTransform:
   m_Children:
   - {fileID: 1679273620}
   m_Father: {fileID: 788772832}
-  m_RootOrder: 0
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: -250, y: -100}
+  m_AnchoredPosition: {x: 350, y: -100}
   m_SizeDelta: {x: 900, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &621552049
@@ -22841,7 +22613,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 16-14-12
+  m_Text: 10 MINUTES
 --- !u!222 &627151491
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -23170,7 +22942,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 10-10-10
+  m_Text: 5 MINUTES
 --- !u!222 &631519062
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -23359,11 +23131,11 @@ RectTransform:
   m_Children:
   - {fileID: 1661379910}
   m_Father: {fileID: 361089757}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: -250, y: -300.00006}
+  m_AnchoredPosition: {x: -250, y: -100}
   m_SizeDelta: {x: 900, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &636347252
@@ -25625,7 +25397,7 @@ RectTransform:
   m_Children:
   - {fileID: 1463531479}
   m_Father: {fileID: 788772832}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
@@ -28843,7 +28615,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: BACK
+  m_Text: SUPPLEMENTS
 --- !u!222 &776413899
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -29353,7 +29125,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: -250, y: -100}
+  m_AnchoredPosition: {x: 0, y: -100}
   m_SizeDelta: {x: 900, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &786480752
@@ -29749,9 +29521,9 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 621552048}
   - {fileID: 692780043}
   - {fileID: 1792369128}
+  - {fileID: 621552048}
   - {fileID: 423421558}
   m_Father: {fileID: 1762974093}
   m_RootOrder: 3
@@ -31903,80 +31675,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 2
---- !u!1 &844504591
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 5
-  m_Component:
-  - component: {fileID: 844504592}
-  - component: {fileID: 844504594}
-  - component: {fileID: 844504593}
-  m_Layer: 5
-  m_Name: Text
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &844504592
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 844504591}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 289749322}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &844504593
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 844504591}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_FontData:
-    m_Font: {fileID: 12800000, guid: 7cb2912222469634ba17a77055919ea8, type: 3}
-    m_FontSize: 70
-    m_FontStyle: 0
-    m_BestFit: 0
-    m_MinSize: 0
-    m_MaxSize: 70
-    m_Alignment: 4
-    m_AlignByGeometry: 0
-    m_RichText: 1
-    m_HorizontalOverflow: 1
-    m_VerticalOverflow: 1
-    m_LineSpacing: 1
-  m_Text: BACK
---- !u!222 &844504594
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 844504591}
 --- !u!1 &844937011
 GameObject:
   m_ObjectHideFlags: 0
@@ -32196,7 +31894,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: BACK
+  m_Text: 3
 --- !u!222 &854589434
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -33369,7 +33067,6 @@ RectTransform:
   - {fileID: 1827537408}
   - {fileID: 113972952}
   - {fileID: 1020799187}
-  - {fileID: 289749322}
   m_Father: {fileID: 280144678}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -33405,7 +33102,7 @@ MonoBehaviour:
   RightAnswer: {fileID: 1827537407}
   Wronganswer1: {fileID: 113972951}
   Wronganswer2: {fileID: 1020799186}
-  Wronganswer3: {fileID: 289749321}
+  Wronganswer3: {fileID: 0}
   MiniRight: {fileID: 932402604}
 --- !u!1 &896834713
 GameObject:
@@ -33838,7 +33535,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: 7cb2912222469634ba17a77055919ea8, type: 3}
-    m_FontSize: 25
+    m_FontSize: 50
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 2
@@ -33849,23 +33546,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "1.Lie back on a flat bench. Using a medium width grip (a grip that creates
-    a 90-degree angle in the middle of the movement between the forearms and the upper
-    arms), lift the bar from the rack and hold it straight over you with your arms
-    locked. This will be your starting position.\r\n2.From the starting position,
-    breathe in and begin coming down slowly until the bar touches your middle chest.\r\n3.After
-    a brief pause, push the bar back to the starting position as you breathe out.
-    Focus on pushing the bar using your chest muscles. Lock your arms and squeeze
-    your chest in the contracted position at the top of the motion, hold for a second
-    and then start coming down slowly again. \n\nTip: Ideally, lowering the weight
-    should take about twice as long as raising it.\r\n\nRepeat the movement for the
-    prescribed amount of repetitions.\r\nWhen you are done, place the bar back in
-    the rack.\r\n\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCaution:\r\nIf
-    you are new at this exercise, it is advised that you use a spotter. If no spotter
-    is available, then be conservative with the amount of weight used.\r\nAlso, beware
-    of letting the bar drift too far forward. You want the bar to touch your middle
-    chest and nowhere else.\r\nDon't bounce the weight off your chest. You should
-    be in full control of the barbell at all times."
+  m_Text: How many days of break is recommended betweeen training sessions?
 --- !u!222 &908321500
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -34803,7 +34484,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: BACK
+  m_Text: 'Avarage numer of repeats
+
+    50% more weight'
 --- !u!222 &946872502
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -35622,7 +35305,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 12-10-8
+  m_Text: 15 MINUTES
 --- !u!222 &963059549
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -36094,34 +35777,20 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: 7cb2912222469634ba17a77055919ea8, type: 3}
-    m_FontSize: 25
+    m_FontSize: 50
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 2
     m_MaxSize: 50
-    m_Alignment: 0
+    m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "1.Lie back on a flat bench. Using a medium width grip (a grip that creates
-    a 90-degree angle in the middle of the movement between the forearms and the upper
-    arms), lift the bar from the rack and hold it straight over you with your arms
-    locked. This will be your starting position.\r\n2.From the starting position,
-    breathe in and begin coming down slowly until the bar touches your middle chest.\r\n3.After
-    a brief pause, push the bar back to the starting position as you breathe out.
-    Focus on pushing the bar using your chest muscles. Lock your arms and squeeze
-    your chest in the contracted position at the top of the motion, hold for a second
-    and then start coming down slowly again. \n\nTip: Ideally, lowering the weight
-    should take about twice as long as raising it.\r\n\nRepeat the movement for the
-    prescribed amount of repetitions.\r\nWhen you are done, place the bar back in
-    the rack.\r\n\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCaution:\r\nIf
-    you are new at this exercise, it is advised that you use a spotter. If no spotter
-    is available, then be conservative with the amount of weight used.\r\nAlso, beware
-    of letting the bar drift too far forward. You want the bar to touch your middle
-    chest and nowhere else.\r\nDon't bounce the weight off your chest. You should
-    be in full control of the barbell at all times."
+  m_Text: 'What is proportion between repeats and weight
+
+    during training for strength?'
 --- !u!222 &968223813
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -36239,7 +35908,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: BACK
+  m_Text: BETWEEN EXERCISES
 --- !u!222 &972161268
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -38768,7 +38437,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: BACK
+  m_Text: 4
 --- !u!222 &1028657254
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -39337,7 +39006,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: BACK
+  m_Text: NOT TO BE HUNGRY
 --- !u!222 &1048375075
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -42488,7 +42157,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 5373f6e0592f98d4381e0a94c92945e9, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.5
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -43168,10 +42837,10 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 301616019}
-  - {fileID: 438612055}
-  - {fileID: 1660137612}
   - {fileID: 397773464}
+  - {fileID: 1660137612}
+  - {fileID: 438612055}
+  - {fileID: 301616019}
   m_Father: {fileID: 608174358}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -43242,11 +42911,11 @@ RectTransform:
   m_Children:
   - {fileID: 582907186}
   m_Father: {fileID: 361089757}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: -250, y: -100}
+  m_AnchoredPosition: {x: -250, y: -300}
   m_SizeDelta: {x: 900, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1140814701
@@ -46616,34 +46285,18 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: 7cb2912222469634ba17a77055919ea8, type: 3}
-    m_FontSize: 25
+    m_FontSize: 50
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 2
     m_MaxSize: 50
-    m_Alignment: 0
+    m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "1.Lie back on a flat bench. Using a medium width grip (a grip that creates
-    a 90-degree angle in the middle of the movement between the forearms and the upper
-    arms), lift the bar from the rack and hold it straight over you with your arms
-    locked. This will be your starting position.\r\n2.From the starting position,
-    breathe in and begin coming down slowly until the bar touches your middle chest.\r\n3.After
-    a brief pause, push the bar back to the starting position as you breathe out.
-    Focus on pushing the bar using your chest muscles. Lock your arms and squeeze
-    your chest in the contracted position at the top of the motion, hold for a second
-    and then start coming down slowly again. \n\nTip: Ideally, lowering the weight
-    should take about twice as long as raising it.\r\n\nRepeat the movement for the
-    prescribed amount of repetitions.\r\nWhen you are done, place the bar back in
-    the rack.\r\n\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCaution:\r\nIf
-    you are new at this exercise, it is advised that you use a spotter. If no spotter
-    is available, then be conservative with the amount of weight used.\r\nAlso, beware
-    of letting the bar drift too far forward. You want the bar to touch your middle
-    chest and nowhere else.\r\nDon't bounce the weight off your chest. You should
-    be in full control of the barbell at all times."
+  m_Text: On how many parts you should train during dedicated training?
 --- !u!222 &1205323797
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -46763,80 +46416,6 @@ CanvasRenderer:
     type: 2}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1208521846}
---- !u!1 &1211543697
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 5
-  m_Component:
-  - component: {fileID: 1211543698}
-  - component: {fileID: 1211543700}
-  - component: {fileID: 1211543699}
-  m_Layer: 5
-  m_Name: Text
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1211543698
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1211543697}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1451655625}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1211543699
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1211543697}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_FontData:
-    m_Font: {fileID: 12800000, guid: 7cb2912222469634ba17a77055919ea8, type: 3}
-    m_FontSize: 70
-    m_FontStyle: 0
-    m_BestFit: 0
-    m_MinSize: 0
-    m_MaxSize: 70
-    m_Alignment: 4
-    m_AlignByGeometry: 0
-    m_RichText: 1
-    m_HorizontalOverflow: 1
-    m_VerticalOverflow: 1
-    m_LineSpacing: 1
-  m_Text: BACK
---- !u!222 &1211543700
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1211543697}
 --- !u!1 &1211796718
 GameObject:
   m_ObjectHideFlags: 0
@@ -48809,7 +48388,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: BACK
+  m_Text: 'Little number of repeats
+
+    70% more weight'
 --- !u!222 &1284177657
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -48932,34 +48513,19 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: 7cb2912222469634ba17a77055919ea8, type: 3}
-    m_FontSize: 25
+    m_FontSize: 50
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 2
-    m_MaxSize: 50
+    m_MaxSize: 70
     m_Alignment: 0
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "1.Lie back on a flat bench. Using a medium width grip (a grip that creates
-    a 90-degree angle in the middle of the movement between the forearms and the upper
-    arms), lift the bar from the rack and hold it straight over you with your arms
-    locked. This will be your starting position.\r\n2.From the starting position,
-    breathe in and begin coming down slowly until the bar touches your middle chest.\r\n3.After
-    a brief pause, push the bar back to the starting position as you breathe out.
-    Focus on pushing the bar using your chest muscles. Lock your arms and squeeze
-    your chest in the contracted position at the top of the motion, hold for a second
-    and then start coming down slowly again. \n\nTip: Ideally, lowering the weight
-    should take about twice as long as raising it.\r\n\nRepeat the movement for the
-    prescribed amount of repetitions.\r\nWhen you are done, place the bar back in
-    the rack.\r\n\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCaution:\r\nIf
-    you are new at this exercise, it is advised that you use a spotter. If no spotter
-    is available, then be conservative with the amount of weight used.\r\nAlso, beware
-    of letting the bar drift too far forward. You want the bar to touch your middle
-    chest and nowhere else.\r\nDon't bounce the weight off your chest. You should
-    be in full control of the barbell at all times."
+  m_Text: 'How many exercises should be at least written for each part in full body
+    training program? '
 --- !u!222 &1286120192
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -50563,7 +50129,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1674559514}
+      - m_Target: {fileID: 1801644369}
         m_MethodName: SetActive
         m_Mode: 6
         m_Arguments:
@@ -55593,201 +55159,6 @@ MonoBehaviour:
       m_TypeName: UnityEngine.EventSystems.EventTrigger+TriggerEvent, UnityEngine.UI,
         Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   delegates: []
---- !u!1 &1451655624
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 5
-  m_Component:
-  - component: {fileID: 1451655625}
-  - component: {fileID: 1451655631}
-  - component: {fileID: 1451655630}
-  - component: {fileID: 1451655629}
-  - component: {fileID: 1451655628}
-  - component: {fileID: 1451655627}
-  - component: {fileID: 1451655626}
-  m_Layer: 5
-  m_Name: Answer2
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1451655625
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1451655624}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 0.9999836}
-  m_Children:
-  - {fileID: 1211543698}
-  m_Father: {fileID: 321363824}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 350.0002, y: -100}
-  m_SizeDelta: {x: 900, y: 300}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1451655626
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1451655624}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -1862395651, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Delegates:
-  - eventID: 0
-    callback:
-      m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 931741120}
-          m_MethodName: Play
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-      m_TypeName: UnityEngine.EventSystems.EventTrigger+TriggerEvent, UnityEngine.UI,
-        Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  - eventID: 4
-    callback:
-      m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 2076073660}
-          m_MethodName: Play
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-      m_TypeName: UnityEngine.EventSystems.EventTrigger+TriggerEvent, UnityEngine.UI,
-        Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  delegates: []
---- !u!114 &1451655627
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1451655624}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d1a8414b915d9bd448a9bb91ede62445, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  alphalevel: 0.3
---- !u!114 &1451655628
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1451655624}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 25adab4619094664f9cc8b833375cba2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1451655629
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1451655624}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Navigation:
-    m_Mode: 3
-    m_SelectOnUp: {fileID: 0}
-    m_SelectOnDown: {fileID: 0}
-    m_SelectOnLeft: {fileID: 0}
-    m_SelectOnRight: {fileID: 0}
-  m_Transition: 3
-  m_Colors:
-    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.7122642, g: 1, b: 1, a: 1}
-    m_PressedColor: {r: 1, g: 0.018631034, b: 0, a: 1}
-    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
-    m_ColorMultiplier: 1
-    m_FadeDuration: 0.1
-  m_SpriteState:
-    m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 0}
-    m_DisabledSprite: {fileID: 0}
-  m_AnimationTriggers:
-    m_NormalTrigger: Normal
-    m_HighlightedTrigger: Highlighted
-    m_PressedTrigger: Pressed
-    m_DisabledTrigger: Disabled
-  m_Interactable: 1
-  m_TargetGraphic: {fileID: 1451655630}
-  m_OnClick:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1451655628}
-        m_MethodName: WrongTrig
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: Start
-          m_BoolArgument: 0
-        m_CallState: 1
-    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
-      Culture=neutral, PublicKeyToken=null
---- !u!114 &1451655630
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1451655624}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 0.9987794, g: 1, b: 0.8349056, a: 1}
-  m_RaycastTarget: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 9a32a6cc2cb803443983d45d4a513506, type: 3}
-  m_Type: 1
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
---- !u!222 &1451655631
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1451655624}
 --- !u!1 &1455157362
 GameObject:
   m_ObjectHideFlags: 0
@@ -56249,7 +55620,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: BACK
+  m_Text: 1
 --- !u!222 &1463531481
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -62515,7 +61886,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1762974088}
+      - m_Target: {fileID: 540799199}
         m_MethodName: SetActive
         m_Mode: 6
         m_Arguments:
@@ -63285,7 +62656,7 @@ RectTransform:
   m_Children:
   - {fileID: 2132893798}
   m_Father: {fileID: 1139285623}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
@@ -63514,7 +62885,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: BACK
+  m_Text: 2
 --- !u!222 &1661379912
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -63588,7 +62959,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: BASIC
+  m_Text: BASIC 2
 --- !u!222 &1661753047
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -63962,7 +63333,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: BACK
+  m_Text: 2
 --- !u!222 &1679273622
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -65728,7 +65099,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: How many repeats you should do during training for strength?
+  m_Text: How many repeats you should do during progressive training?
 --- !u!222 &1733821159
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -66568,7 +65939,7 @@ RectTransform:
   m_Children:
   - {fileID: 946872500}
   m_Father: {fileID: 321363824}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
@@ -67812,7 +67183,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1392629074}
+      - m_Target: {fileID: 14627998}
         m_MethodName: SetTrigger
         m_Mode: 5
         m_Arguments:
@@ -68083,11 +67454,11 @@ RectTransform:
   m_Children:
   - {fileID: 854589432}
   m_Father: {fileID: 788772832}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 350.0002, y: -100}
+  m_AnchoredPosition: {x: -250, y: -100}
   m_SizeDelta: {x: 900, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1792369129
@@ -69874,7 +69245,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 20-18-16
+  m_Text: 30 MINUTES
 --- !u!222 &1822490498
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -70091,7 +69462,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: -250, y: -100}
+  m_AnchoredPosition: {x: 50, y: -300}
   m_SizeDelta: {x: 900, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1827537409
@@ -71491,7 +70862,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: BACK
+  m_Text: 2
 --- !u!222 &1853016386
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -72071,7 +71442,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: BACK
+  m_Text: 'A few repeats
+
+    90% more weight'
 --- !u!222 &1867142678
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -75089,7 +74462,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: BACK
+  m_Text: 1
 --- !u!222 &1961288991
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -78883,6 +78256,10 @@ Prefab:
       propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: b6a1cf4e3eeaf9a4ca38bf8acb910a6d, type: 2}
+      propertyPath: m_Value
+      value: 0.5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: b6a1cf4e3eeaf9a4ca38bf8acb910a6d, type: 2}
   m_IsPrefabParent: 0
@@ -81624,7 +81001,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 215265855}
+      - m_Target: {fileID: 684548940}
         m_MethodName: SetActive
         m_Mode: 6
         m_Arguments:
@@ -83383,7 +82760,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: BACK
+  m_Text: 4
 --- !u!222 &2132893800
 CanvasRenderer:
   m_ObjectHideFlags: 0
